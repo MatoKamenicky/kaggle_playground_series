@@ -11,6 +11,8 @@ Here I explore different models, preprocessing techniques, and evaluation strate
 ## 🏆 Competitions Participated
 - **[S5E7](https://www.kaggle.com/competitions/playground-series-s5e7)** — Predicting if a person is introverted or extroverted  
 - **[S5E8](https://www.kaggle.com/competitions/playground-series-s5e8)** — Predicting whether a client will subscribe to a bank term deposit
+- **[S5E9](https://www.kaggle.com/competitions/playground-series-s5e9)** — Predicting song's beats-per-minute
+- **[S5E10](https://www.kaggle.com/competitions/playground-series-s5e10)** — Predicting the likelihood of accidents on different types of roads
 
 *(This list will be updated as I join new competitions.)*
 
