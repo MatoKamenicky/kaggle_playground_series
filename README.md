@@ -13,6 +13,8 @@ Here I explore different models, preprocessing techniques, and evaluation strate
 - **[S5E8](https://www.kaggle.com/competitions/playground-series-s5e8)** — Predicting whether a client will subscribe to a bank term deposit
 - **[S5E9](https://www.kaggle.com/competitions/playground-series-s5e9)** — Predicting song's beats-per-minute
 - **[S5E10](https://www.kaggle.com/competitions/playground-series-s5e10)** — Predicting the likelihood of accidents on different types of roads
+- **[S5E11](https://www.kaggle.com/competitions/playground-series-s5e11)** — Predict the probability that a borrower will pay back their loan
+- **[S5E12](https://www.kaggle.com/competitions/playground-series-s5e12)** — Predict the probability that a patient will be diagnosed with diabetes
 
 *(This list will be updated as I join new competitions.)*
 
