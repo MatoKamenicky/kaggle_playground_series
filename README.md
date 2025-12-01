@@ -2,7 +2,7 @@
 
 This repository contains my solutions for various Kaggle Playground Series competitions.  
 Each competition I participate in has its own dedicated folder with the code, notebooks, and everything what is 
-necessary for the competition.
+necessary for the competition. The notebooks were created in Google Colab or Kaggle notebooks.
 
 ## 📌 Overview
 The Kaggle Playground Series offers beginner-friendly machine learning competitions with synthetic or adapted datasets.  
